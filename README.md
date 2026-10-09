@@ -32,4 +32,4 @@ Portfolio project analysing appointment attendance using a public dataset of med
 - The first and last weeks of data are incomplete, and only two days of data exist for the week of 23 May.
 
 ## Files
-Screenshots of the dashboard are included. The workbook is available on request.
+Screenshots of the dashboard are included. The workbook is available for download.
